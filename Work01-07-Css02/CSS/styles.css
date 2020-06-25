@@ -1,0 +1,24 @@
+.bold {
+    font-weight: bolder;
+}
+
+.blue {
+    color: blue;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+hr{
+    border: 1px solid;
+}
+
+.note{
+    background-color: #faedd1;
+    font-style: italic;
+}
