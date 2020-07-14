@@ -1,0 +1,53 @@
+body {
+    background: rgb(230, 229, 229);
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    border-radius: 30px;
+    padding: 20px;
+    border: gray solid 2px;
+    margin: 20px;
+}
+
+p {
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.menu {
+    list-style-type: none;
+    width: 250px;
+    margin: 50px;
+}
+
+.menu li {
+    background: #525251;
+}
+
+
+.menu li:hover {
+    background: #30302f;
+}
+
+.img-form img {
+    width: 90px;
+    height: 90px;
+}
+
+.menu-content {
+    text-transform: uppercase;
+    text-align: center;
+    vertical-align: 140%;
+    color: white;
+}

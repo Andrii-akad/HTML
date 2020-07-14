@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(208, 224, 236);
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+ul img:hover {
+    box-shadow: 2px 2px 50px blue;
+}
+
+img {
+    width: 17%;
+}
+
+.horizontal li {
+    width: 23%;
+    display: inline-block;
+}
+
+.horizontal img {
+    width: 100%;
+}
+
+.main {
+    width: 50%;
+    float: left;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    display: block;
+    text-align: center;
+}

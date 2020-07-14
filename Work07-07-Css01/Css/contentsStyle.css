@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(222, 241, 238);
+}
+
+.roman {
+    list-style-type: upper-roman;
+    font-weight: bolder;
+}
+
+.alpha {
+    list-style-type: lower-alpha;
+}
+
+span {
+    color: rgb(69, 69, 221);
+    font-weight: normal;
+}
+
+ol {
+    margin-left: 50px;
+}
+
+p {
+    font-weight: bold;
+    margin: 10px 300px 0px 20px;
+}
