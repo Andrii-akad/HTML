@@ -1,0 +1,13 @@
+E:\Homework\Homework70\Server01\bin\Debug\Server01.dll.config
+E:\Homework\Homework70\Server01\bin\Debug\Server01.dll
+E:\Homework\Homework70\Server01\bin\Debug\Server01.pdb
+E:\Homework\Homework70\Server01\bin\Debug\EntityFramework.dll
+E:\Homework\Homework70\Server01\bin\Debug\EntityFramework.SqlServer.dll
+E:\Homework\Homework70\Server01\bin\Debug\EntityFramework.xml
+E:\Homework\Homework70\Server01\bin\Debug\EntityFramework.SqlServer.xml
+E:\Homework\Homework70\Server01\bin\Debug\ru\EntityFramework.resources.dll
+E:\Homework\Homework70\Server01\obj\Debug\Server01.csproj.CoreCompileInputs.cache
+E:\Homework\Homework70\Server01\obj\Debug\Server01.csproj.CopyComplete
+E:\Homework\Homework70\Server01\obj\Debug\Server01.dll
+E:\Homework\Homework70\Server01\obj\Debug\Server01.pdb
+E:\Homework\Homework70\Server01\obj\Debug\Server01.csprojAssemblyReference.cache
