@@ -1,0 +1,33 @@
+   #map {
+        height: 50%; 
+        width: 50%;  
+        margin-top: 2%;
+   }
+
+   .list-group{
+       background-color: transparent;
+       overflow: auto;
+       height: 200px;
+       width: 60%;
+   }
+
+   body{
+       background-image: url("https://thumbs.gfycat.com/VillainousDisguisedBrant-small.gif");
+       background-size: cover;
+       height: 100vh;
+   }
+
+   .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    button{
+        width: 10%;
+        margin-left: 10px;
+    }
+
+    input{
+       width: 20%;
+   }
